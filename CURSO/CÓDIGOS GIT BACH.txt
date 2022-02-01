@@ -16,10 +16,10 @@ CÓDIGOS DA GIT BASH
 - git commit -m – para atualizar o commit da pasta (commit – bloco final da pasta)
 
 - git config – list  - lista de todas as configurações
-- git remote add origin – para passar para o GitHub o arquivo
+- git remote add – para passar para o GitHub o arquivo
 - git remote -v  - lista re repositorios remotos cadastrada
 
 cat – ver o conteudo do arquivo
 
-- git push origin master – manda o arquivo para o GitHub
-- git pull origin master – pucha do GitHub para corrigir o erro de incompatibilidade de código
+- git push – manda o arquivo para o GitHub
+- git pull – pucha do GitHub para corrigir o erro de incompatibilidade de código
