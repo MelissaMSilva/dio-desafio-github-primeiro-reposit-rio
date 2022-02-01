@@ -1,0 +1,25 @@
+CÓDIGOS DA GIT BASH
+
+- ls – listar os documentos da pasta
+- cd – entrar na pasta
+- pwd – mostra o caminho completo da pasta que estamos
+- ctrl L – limpa a tela
+- mkdir – cria nova pasta
+- tab – preenche o resto da palavra
+- ls -a – informa os elementos ocultos
+- cd .. - volta para a pasta anterior
+- mv – mover para outra pasta
+
+-git clone – puxa o arquivo do GitHub para o Git Bach
+- git add – para atualizar os arquivos alterados na pasta
+- git add * - pega tudo que precisa ser atualizado na pasta
+- git commit -m – para atualizar o commit da pasta (commit – bloco final da pasta)
+
+- git config – list  - lista de todas as configurações
+- git remote add origin – para passar para o GitHub o arquivo
+- git remote -v  - lista re repositorios remotos cadastrada
+
+cat – ver o conteudo do arquivo
+
+- git push origin master – manda o arquivo para o GitHub
+- git pull origin master – pucha do GitHub para corrigir o erro de incompatibilidade de código
